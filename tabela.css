@@ -1,0 +1,37 @@
+body{ width: 100%;
+    margin: 0;}
+    
+    table{
+        margin: auto;
+    }
+    .g{
+        background-color:yellow;
+    }
+    .roxo{
+        background-color: purple;
+    }
+    .salmão{
+        background-color: salmon;
+    }
+    .verde{
+        background-color: green;
+    }
+    .azul{
+        background-color: rgb(69, 69, 202);
+    }
+    .preto{
+        background-color: grey;
+    }
+    body{
+        text-align: center;
+        padding: 5%;
+      
+        font-size: 16px;
+    }
+    p{
+        font-size: 11px;
+    }
+    td{
+        width: 12px;
+    } 
+    
